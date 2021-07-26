@@ -1,2 +1,2 @@
-<h1 align=center Projeto Google Glass </>
+<h1> Projeto Google Glass <h1/>
 
