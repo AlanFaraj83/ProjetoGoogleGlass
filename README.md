@@ -2,14 +2,13 @@
   
 
 	
-<h2> Conteúdo do site <h2>
+<h2> Conteúdo do site </h2>
 	
 	
 <ul>
 <li>HTML5</li>
 <li>CSS3</li>
 <li>JAVASCRIPT</li>
-<li>Fourth item</li>
 </ul>
 
 	
