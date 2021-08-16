@@ -1,11 +1,19 @@
-<h1> Projeto Site Google Glass</h1>
+
+<p align="center">
+ <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=49AA26&labelColor=000000" alt="PRs welcome!" />
+
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
+
+# Projeto Site Google Glass
 	
 <p>
 	Projeto site google Glass feito para aprendizagem e informações sobre o tema google glass.
 </p>
 
+<br>
 	
-<h1> Conteúdo do site </h1>
+## 🚀 Tecnologias:
 		
 <ul>
 <li>HTML5</li>
@@ -14,7 +22,6 @@
 </ul>
 
 <br>
-<br>
 
 
 <h1 align='center'><strong>Apresentação resumida do site:</strong></h1>
@@ -22,10 +29,9 @@
 <br>
 <br>
 
-<hgroup>
-	   <h1>Google Glass</h1>
-		 <br>
-     <h2>A revolução do Google está chegando</h2>
+<hgroup>   
+	<h2>A revolução do Google está chegando</h2>
+	
 </hgroup>
 
 <img id="icone" src="_imagens/glass-oculos-preto-peq.png"/>
@@ -42,6 +48,18 @@
 
  <h2>Como funciona</h2>
  <p>De acordo com fontes próximas do Google, os óculos vão contar com uma pequena tela de LCD ou AMOLED na parte superior e em frente aos olhos do usuário. Com o uso de uma câmera e GPS, você pode se situar, assim como selecionar opções com o movimento da cabeça</p>
+
+ <br>
+
+## 📝 Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
+		
+<br>		
+
+#### Como baixar o projeto: git clone https://github.com/AlanFaraj83/ProjetoGoogleGlass.git		
+		
+		
 
 
  
