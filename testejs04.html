@@ -7,17 +7,17 @@
 
 			if (tipo == 1)
 			{
-			   arquivo = "_imagens/lampada-acesa.jpg";
+			   arquivo = "./_imagens/lampada-acesa.jpg";
 			}  
 
 			if (tipo == 2) 
 			{
-				arquivo = "_imagens/lampada-apagada.jpg";
+				arquivo = "./_imagens/lampada-apagada.jpg";
 			} 
 
 			if (tipo == 3) 
 			{
-				arquivo = "_imagens/lampada-quebrada.jpg";
+				arquivo = "./_imagens/lampada-quebrada.jpg";
 				
 			}
 			if(!quebrada)
@@ -34,7 +34,7 @@
 </head>
 <body>
 	<h1>Acenda a lâmpada</h1>
-	<img src="_imagens/lampada-apagada.jpg" id="luz" onmousemove="mudaLampada(1)" onmouseout="mudaLampada(2)" onclick="mudaLampada(3)" />
+	<img src="./_imagens/lampada-apagada.jpg" id="luz" onmousemove="mudaLampada(1)" onmouseout="mudaLampada(2)" onclick="mudaLampada(3)" />
 
 </body>
 </html>
